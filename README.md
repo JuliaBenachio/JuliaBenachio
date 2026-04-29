@@ -18,4 +18,4 @@ Possuo experiência com TypeScript, React e Vue.js no front-end, além de desenv
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]((https://www.linkedin.com/in/julia-benachio/))
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/julia-benachio/)
