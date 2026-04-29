@@ -7,3 +7,7 @@ Possuo experiência com TypeScript, React e Vue.js no front-end, além de desenv
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaBenachio&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuliaBenachio&repo=flex-envios.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
