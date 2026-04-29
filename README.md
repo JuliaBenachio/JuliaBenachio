@@ -11,3 +11,7 @@ Possuo experiência com TypeScript, React e Vue.js no front-end, além de desenv
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuliaBenachio&repo=flex-envios&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBenachio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
