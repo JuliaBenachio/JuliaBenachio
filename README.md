@@ -6,19 +6,19 @@ Atuo no desenvolvimento de aplicações full stack, participando de todo o ciclo
 Possuo experiência com TypeScript, React e Vue.js no front-end, além de desenvolvimento back-end com Node.js e Java, trabalhando com consumo e criação de APIs REST. Também aplico testes automatizados com Cypress para garantir a qualidade das aplicações.
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaBenachio&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JuliaBenachio&show_icons=true&theme=tokyonight)](https://github.com/JuliaBenachio)
+
 
 ### Projetos
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuliaBenachio&repo=flex-envios&theme=tokyonight)](https://github.com/JuliaBenachio/flex-envios)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuliaBenachio&repo=efood&theme=tokyonight)](https://github.com/JuliaBenachio/efood)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuliaBenachio&repo=eplay&theme=tokyonight)](https://github.com/JuliaBenachio/eplay)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuliaBenachio&repo=clone_streaming&theme=tokyonight)](https://github.com/JuliaBenachio/clone_streaming)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuliaBenachio&repo=flex-envios&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuliaBenachio&repo=efood&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuliaBenachio&repo=eplay&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuliaBenachio&repo=clone_streaming&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuliaBenachio&layout=compact&theme=tokyonight)](https://github.com/JuliaBenachio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBenachio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
-
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/julia-benachio/)
