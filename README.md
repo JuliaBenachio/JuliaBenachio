@@ -6,18 +6,18 @@ Atuo no desenvolvimento de aplicações full stack, participando de todo o ciclo
 Possuo experiência com TypeScript, React e Vue.js no front-end, além de desenvolvimento back-end com Node.js e Java, trabalhando com consumo e criação de APIs REST. Também aplico testes automatizados com Cypress para garantir a qualidade das aplicações.
 
 ### Detalhes
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JuliaBenachio&show_icons=true&theme=tokyonight)](https://github.com/JuliaBenachio)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JuliaBenachio&show_icons=true&theme=tokyonight)](https://github.com/JuliaBenachio)
 
 
 ### Projetos
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuliaBenachio&repo=flex-envios&theme=tokyonight)](https://github.com/JuliaBenachio/flex-envios)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuliaBenachio&repo=efood&theme=tokyonight)](https://github.com/JuliaBenachio/efood)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuliaBenachio&repo=eplay&theme=tokyonight)](https://github.com/JuliaBenachio/eplay)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JuliaBenachio&repo=clone_streaming&theme=tokyonight)](https://github.com/JuliaBenachio/clone_streaming)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=flex-envios&theme=tokyonight)](https://github.com/JuliaBenachio/flex-envios)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=efood&theme=tokyonight)](https://github.com/JuliaBenachio/efood)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=eplay&theme=tokyonight)](https://github.com/JuliaBenachio/eplay)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=clone_streaming&theme=tokyonight)](https://github.com/JuliaBenachio/clone_streaming)
 
 
 ### Linguagens utilizadas
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuliaBenachio&layout=compact&theme=tokyonight)](https://github.com/JuliaBenachio)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=JuliaBenachio&layout=compact&theme=tokyonight&utm_source=chatgpt.com)](https://github.com/JuliaBenachio)
 
 
 ### Contatos
