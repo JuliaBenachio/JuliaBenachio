@@ -11,9 +11,9 @@ Possuo experiência com TypeScript, React e Vue.js no front-end, além de desenv
 
 ### Projetos
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=flex-envios&theme=tokyonight)](https://github.com/JuliaBenachio/flex-envios)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=efood&theme=tokyonight)](https://github.com/JuliaBenachio/efood)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=efood&theme=tokyonight)]([https://github.com/JuliaBenachio/efood](https://github.com/JuliaBenachio/efood-fullstack))
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=eplay&theme=tokyonight)](https://github.com/JuliaBenachio/eplay)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=clone_streaming&theme=tokyonight)](https://github.com/JuliaBenachio/clone_streaming)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=clone_streaming&theme=tokyonight)]([https://github.com/JuliaBenachio/clone_streaming](https://github.com/JuliaBenachio/microservices-cliente-produto))
 
 
 ### Linguagens utilizadas
