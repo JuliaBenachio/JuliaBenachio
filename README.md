@@ -30,9 +30,9 @@ Estou sempre em busca de novos aprendizados e aberta a novas oportunidades na á
 
 ### Projetos
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=flex-envios&theme=tokyonight)](https://github.com/JuliaBenachio/flex-envios)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=efood-fullstack&theme=tokyonight)]([https://github.com/JuliaBenachio/efood](https://github.com/JuliaBenachio/efood-fullstack))
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=efood-fullstack&theme=tokyonight)](https://github.com/JuliaBenachio/efood-fullstack)
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=eplay&theme=tokyonight)](https://github.com/JuliaBenachio/eplay)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=microservices-cliente-produto&theme=tokyonight)]([https://github.com/JuliaBenachio/clone_streaming](https://github.com/JuliaBenachio/microservices-cliente-produto))
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=JuliaBenachio&repo=microservices-cliente-produto&theme=tokyonight)](https://github.com/JuliaBenachio/microservices-cliente-produto)
 
 
 ### Linguagens utilizadas
